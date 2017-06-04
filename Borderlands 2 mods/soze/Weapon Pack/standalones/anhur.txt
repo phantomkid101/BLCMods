@@ -15,7 +15,7 @@
   - High elemental effect chance.
   - Burst on zoom in.
 
-### ANHUR > RUBI ###
+### Headshot > RUBI ###
 
 # CARD
 
